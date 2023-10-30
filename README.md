@@ -18,7 +18,7 @@ Using this button disable the "Auto deploy changes on push" feature as you are u
 
 To make a copy, click the Fork button above and follow the on-screen instructions. In this case, you'll be forking this repo as a starting point for your own app (see [GitHub documentation](https://docs.github.com/en/github/getting-started-with-github/fork-a-repo) to learn more about forking repos.
 
-After forking the repo, you should now be viewing this README in your own github org (e.g. `https://github.com/<your-org>/sample-golang`). To deploy the new repo, visit https://cloud.digitalocean.com/apps and click "Create App" or "Launch Your App". Then, select the repository you created and be sure to select the `main` branch.
+After forking the repo, you should now be viewing this README in your own github org (e.g. `https://github.com/<your-org>/sample-golang`). To deploy the new repo, visit https://cloud.digitalocean.com/apps and click "sdsdCreate App" or "Launch Your App". Then, select the repository you created and be sure to select the `main` branch.
 
 After clicking the "Deploy to DigitalOcean" button or completing the instructions above to fork the repo, follow these steps:
 
