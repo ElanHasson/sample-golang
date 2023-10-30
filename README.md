@@ -24,7 +24,7 @@ After clicking the "Deploy to DigitalOcean" button or completing the instruction
 
 1. Select which region you wish to deploy your app to and click Next. The closest region to you should be selected by default. All App Platform apps are routed through a global CDN so this will not affect your app performance, unless it needs to talk to external services.
 1. On the following screen, leave all the fields as they are and click Next.
-1. Confirm your Plan settings and how many containers you want to launch and click **Launch Basic/Pro App**.
+1. Confirm your Plan settings and how many containers you want to launch and click **Launch Basic/Pro App**.sdsdsd
 1. You should see a "Building..." progress indicator. And you can click "Deployments"→"Details" to see more details of the build.
 1. It can take a few minutes for the build to finish, but you can follow the progress by clicking the "Details" link in the top banner.
 1. Once the build completes successfully, click the "Live App" link in the header and you should see your running application in a new tab, displaying the home page.
